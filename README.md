@@ -1,6 +1,9 @@
 # dateSelector
 Hi my name is Toye!
 This project is a custom date selector application built with React Native
+<p align="center">
+<img src="https://github.com/ToyeOnikoyi/dateSelector/blob/master/date_selector.png" height="350" width="200">
+</p>
 
 <h3>Installation </h3>
 
