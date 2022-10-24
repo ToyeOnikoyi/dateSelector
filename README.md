@@ -19,6 +19,9 @@ This project is a custom date selector application built with React Native
 
 <h4>Run the app</h4>
 
-`yarn ios
-or
-yarn android`
+`npx react-native start`
+
+`npx react-native run-ios`
+`or`
+`npx react-native run-android`
+
