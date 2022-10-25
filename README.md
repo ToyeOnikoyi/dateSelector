@@ -2,7 +2,7 @@
 Hi my name is Toye!
 This project is a custom date selector application built with React Native
 <p align="center">
-<img src="https://github.com/ToyeOnikoyi/dateSelector/blob/master/data_selector_2.png" height="350" width="200">
+<img src="https://github.com/ToyeOnikoyi/dateSelector/blob/master/data_selector_2.png" height="500" width="500">
 </p>
 
 <h3>Installation </h3>
